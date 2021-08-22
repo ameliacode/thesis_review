@@ -49,8 +49,8 @@ Content(or paper review, summary etc..) will be added near future.
   </tr>
   <tr>
     <td class="tg-0lax">AI, Graphics</td>
-    <td class="tg-0lax">2021.08</td>
-    <td class="tg-0lax">Figure Skating Simulation from Video</td>
+    <td class="tg-0lax">2021.08.22</td>
+    <td class="tg-0lax"><a href = "http://mrl.snu.ac.kr/research/ProjectSkate/skate.htm">Figure Skating Simulation from Video</td>
     <td class="tg-0lax">Deep mimic of figure skating motion from video using HMR and trajectory optimization.</td>
   </tr>
   </tr>
